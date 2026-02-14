@@ -1,0 +1,1 @@
+sales = [150, 200, 175]  total = sum(sales) average = total / len(sales) print("total sales =", total) print("Average sales =", average)

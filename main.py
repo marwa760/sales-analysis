@@ -1,0 +1,1 @@
+print("welcome to the sales Analysis platfrm")   name =input("Enter your name : ") print("Hello,", name)
